@@ -33,6 +33,7 @@ h3 {
 }
 p {
     text-align: center;
+    display: block;
 }
 hr {
     color: #e1701a;
@@ -51,6 +52,7 @@ hr {
     position: relative;
     width: 80%;
     margin: auto;
+    display: block;
 }
 .dp {
     float: left;
@@ -67,6 +69,7 @@ hr {
     width: 80%;
     margin: auto;
     line-height: 1.75;
+    display: block;
 }
 
 .poet {
@@ -81,7 +84,7 @@ hr {
 .video {
     margin-left: auto;
     margin-right: auto;
-    display: block
+    display: block;
 }
 .tabasco {
 
