@@ -49,7 +49,7 @@ hr {
 }
 .profile {
     position: relative;
-    width: 50%;
+    width: 80%;
     margin: 100px auto 100px auto;
 }
 .dp {
@@ -64,7 +64,7 @@ hr {
 }
 .skills {
     position: relative;
-    width: 75%;
+    width: 80%;
     margin: 100px auto 100px auto;
     line-height: 1.75;
 }
