@@ -62,14 +62,9 @@ hr {
 .profile-line-break {
     clear: left;
 }
-.video {
-    margin-left: auto;
-    margin-right: auto;
-    display: block
-}
 .skills {
     position: relative;
-    width: 50%;
+    width: 75%;
     margin: 100px auto 100px auto;
     line-height: 1.75;
 }
@@ -83,7 +78,11 @@ hr {
 .recorder {
     padding: 30px;
 }
-
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
 .tabasco {
 
     padding-top: 75px;
