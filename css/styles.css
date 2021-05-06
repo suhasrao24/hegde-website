@@ -79,7 +79,9 @@ hr {
     padding: 30px;
 }
 .video {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     padding: 75px;
 }
 .tabasco {
