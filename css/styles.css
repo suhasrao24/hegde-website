@@ -78,7 +78,11 @@ hr {
 .recorder {
     padding: 30px;
 }
-
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
 .tabasco {
 
     padding-top: 75px;
