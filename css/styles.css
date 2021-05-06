@@ -1,0 +1,188 @@
+body {
+    margin: 0;
+    background-color: #5e2f7b;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.name {
+    font-family: 'Niconne', san-serif;
+    position: relative;
+    bottom: 580px;
+    right: 225px;
+    font-size: 55px;
+    color: #fcb900;
+    transform: rotate(-4deg);
+}
+/*
+h1 {
+    font-family: 'Niconne', san-serif;
+    color: black;
+    position: relative;
+    bottom: 510px;
+    right: 105px;
+}
+*/
+h2 {
+    font-family: 'Merriweather', serif;
+    color: black;
+}
+h3 {
+    font-family: 'Itim', cursive;
+    color: black;
+}
+p {
+    text-align: left;
+}
+hr {
+    color: #e1701a;
+    border: 9px dotted;
+    border-style: none none dotted;
+    border-width: 5px;
+    width: 10%;
+ }
+
+.image {
+    width: 550px;
+    height: 550px;
+    padding-top: 35px;
+}
+.profile {
+    position: relative;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.dp {
+    float: left;
+    margin-right: 30px;
+}
+.hello {
+    text-align: left;
+}
+.profile-line-break {
+    clear: left;
+}
+.skills {
+    position: relative;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 1.75;
+}
+
+.poet {
+    padding: 30px;
+}
+.painter {
+    padding: 30px;
+}
+.recorder {
+    padding: 30px;
+}
+.video {
+    padding: 75px;
+}
+.tabasco {
+
+    padding-top: 75px;
+}
+.contact-me {
+    padding-bottom: 75px;
+}
+.btn {
+   background: #DD1788;
+   background-image: -webkit-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -moz-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -ms-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -o-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -webkit-gradient(to bottom, #DD1788, #8D66AE);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 3px;
+   line-height: 3px;
+   color: #FFFFFF;
+   width: 106px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: groove #337FED 1px;
+   background: #DD1788;
+   background-image: -webkit-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -moz-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -ms-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -o-linear-gradient(top, #DD1788, #8D66AE);
+   background-image: -webkit-gradient(to bottom, #DD1788, #8D66AE);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+.bottom {
+    padding-top: 50px;
+    width: 100%;
+    background-color: #00abe6;
+    padding: 50px 0 20px;
+}
+.footer-link {
+    text-decoration: none;
+    padding: 25px;
+    color: #eaf6f6;
+}
+.footer-link:hover {
+    color: gold;
+}
+.registered {
+    padding-top: 30px;
+    font-weight:normal;
+    font-size: 0.75rem;
+}
+.h {
+    transform: translate(20px, 85px) rotate(-50deg);
+    position: relative;
+    top: 9px;
+    left: 10px;
+}
+
+.e {
+    transform: translate(13px, 60px) rotate(-45deg);
+    position: relative;
+    top: 6px;
+    left: 0px;
+}
+
+.g {
+    transform: translate(6px, 40px) rotate(-40deg);
+    position: relative;
+    top: 7px;
+    left: -4px;
+
+}
+
+.d {
+    transform: translate(3px, 23px) rotate(-40deg);
+    position: relative;
+    top: 11px;
+    left: -11px;
+}
+
+.e1 {
+    transform: translate(2px, 14px) rotate(-40deg);
+    position: relative;
+    top: 6px;
+    left: -18px;
+}
+
+/* An inline-block element is placed as an inline
+ element (on the same line as adjacent content),
+ but it behaves like a block element  */
+
+span {
+    display: inline-block;
+}
