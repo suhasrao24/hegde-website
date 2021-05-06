@@ -79,11 +79,11 @@ hr {
     padding: 30px;
 }
 .video {
-    margin: 0 auto;
     width: 670px;
+    height: 400px;
+    margin: 0 auto;
 }
 .tabasco {
-
     padding-top: 75px;
 }
 .contact-me {
