@@ -82,6 +82,7 @@ hr {
     width: 670px;
     height: 400px;
     margin: 0 auto;
+    display: block;
 }
 .tabasco {
 
